@@ -6,5 +6,5 @@ Countdown created with HTMl, CSS and JavaScript, inspired by <a href="https://ww
 
 
 ## Project Link
-[Website](https://ahristudies.github.io/blogcard-template/)
+[Website](https://ahristudies.github.io/countdown-timer/)
 
